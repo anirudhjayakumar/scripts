@@ -1,4 +1,4 @@
-hosts=( tarekc43 tarekc44 tarekc45 tarekc46 )
+hosts=( tarekc43 tarekc44 tarekc45 tarekc46 tarekc47 )
 for i in "${hosts[@]}"
 do
         echo $i
